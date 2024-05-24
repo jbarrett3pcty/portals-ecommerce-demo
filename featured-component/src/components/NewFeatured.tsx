@@ -31,7 +31,7 @@ const NewFeatured = () => {
 
   return (
     <div className="featured-products">
-      <h2>Must Haves, Bestsellers &amp; More</h2>
+      <h2>Testing, Again Again &amp; More</h2>
       <div className="product-list">
         <div className="product-list-inner">
           {productList.map((product) => (

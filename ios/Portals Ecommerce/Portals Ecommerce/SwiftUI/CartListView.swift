@@ -61,7 +61,7 @@ struct CartListView_Previews: PreviewProvider {
         }
         .onAppear {
             // Register Portals
-            PortalsRegistrationManager.shared.register(key: "YOUR KEY HERE");
+            PortalsRegistrationManager.shared.register(key: "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJiNjVmMTU1MS1mMDAyLTQ5MTEtOGQxOC1mZmM5OTg0NWEwZTYifQ.dL_uqjTN9gFn3A_9g1eV6EaJ-5Uhj5b26Z21b8-DODmr6jsVdjnWH1-sWzjMmKSbIQDqptPpTmXj_YlkgoogQhKJwP8R0ITFzKz61sMo_ViFhcuQ0Y0XisTEO-UIWj8WV7eP3QcZx-DjVrshAuBmF7oIlGLZTKy2ovRFOHCxcVgKWByixbSdLEuuV4nEYrn8lS1Uy1tD3YecUBDMNOuH0IueNE7F6PrxxIPFHEBI04U6gSj0e2lGu0vCGwn-RPiab1evLzDqVzrC3MHcgLdli4iHQG98bS7JsKFlN8_1l0BIsCQf4SWy44XoMfRlkf6OqsLWr6xQH_hT0UxCXe3SrQ");
         }
     }
 }
